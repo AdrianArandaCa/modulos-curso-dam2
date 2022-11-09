@@ -37,7 +37,10 @@ class fM6uf1 : Fragment() {
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
+        val nomusuari = (activity as AppCompatActivity).intent.getStringExtra("usuari").toString()
         (activity as AppCompatActivity).supportActionBar?.setTitle(R.string.UF1)
+
+
         // Inflate the layout for this fragment
         return inflater.inflate(R.layout.fragment_f_m6uf1, container, false)
     }
