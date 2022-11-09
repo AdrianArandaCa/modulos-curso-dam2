@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Act7Adrian_ArandaCampanario</string>
+    <string name="M6">M6 - Access to data</string>
+    <string name="UF1">UF1 - File Persistence</string>
+    <string name="UF2">UF2 - Persistence in BDR-BDOR-BDOO</string>
+    <string name="UF3">UF3 - Persistence in native XML BDs</string>
+    <string name="UF4">UF4 - Data access components</string>
+    <string name="M7">M7 Development of interfaces</string>
+    <string name="M7UF1">UF1 - Design and implementation of interfaces</string>
+    <string name="m7UF2">UF2 - Preparation and distribution of applications</string>
+    <string name="M8">M8 Multimedia programming and mobile devices</string>
+    <string name="m8UF1">UF1 - Development of applications for mobile devices</string>
+    <string name="m8UF2">UF2 - Multimedia programming</string>
+    <string name="m8UF3">UF3 - Development of games for mobile devices</string>
+    <string name="m9UF1">UF1 - Security and cryptography</string>
+    <string name="m9UF2">UF2 - Processes and threads</string>
+    <string name="m9UF3">UF3 - Sockets and services</string>
+    <string name="M9">M9 Programming of services and processes</string>
+    <string name="M10">M10 Business management systems</string>
+    <string name="m10UF1">UF1 - ERP-CRM systems. Implementation</string>
+    <string name="m10UF2">UF2 - ERP-CRM systems. Exploitation and adaptation</string>
+    <string name="M13">13 - Multiplatform application development project</string>
+    <string name="m13UF1">UF1 - Project</string>
+    <string name="dam2">2nd of CFGS of DAM</string>
+    <string name="entrar">To enter</string>
+    <string name="password">Password</string>
+    <string name="Usuari">User</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="act7Intro">Activitat 7 Adrian Aranda</string>
+    <string name="adrian">Adrian Aranda Campanario</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

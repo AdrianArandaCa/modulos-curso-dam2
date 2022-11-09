@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Act7Adrian_ArandaCampanario</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="Usuari">Usuari</string>
+    <string name="act7Intro">Activitat 7 Adrian Aranda</string>
+    <string name="entrar">Entrar</string>
+    <string name="password">Password</string>
+    <string name="M6">M6 - Accés a dades</string>
+    <string name="UF1">UF1 - Persistència en fitxers</string>
+    <string name="UF2">UF2 - Persistència en BDR-BDOR-BDOO</string>
+    <string name="UF3">UF3 - Persistència en BD nadiues XML</string>
+    <string name="UF4">UF4 - Components d\'accés a dades</string>
+    <string name="M7">M7 Desenvolupament d\'interfícies</string>
+    <string name="M7UF1">UF1 - Disseny i implementació d’interfícies</string>
+    <string name="m7UF2">UF2 - Preparació i distribució d’aplicacions</string>
+    <string name="M8">M8 Programació multimèdia i dispositius mòbils</string>
+    <string name="m8UF1">UF1 - Desenvolupament d’aplicacions per a dispositius mòbils</string>
+    <string name="m8UF2">UF2 -  Programació multimèdia</string>
+    <string name="m8UF3">UF3 -  Desenvolupament de jocs per dispositius mòbils</string>
+    <string name="m9UF1">UF1 - Seguretat i criptografia</string>
+    <string name="m9UF2">UF2 - Processos i fils</string>
+    <string name="m9UF3">UF3 - Sòcols i serveis</string>
+    <string name="M9">M9 Programació de serveis i processos</string>
+    <string name="M10">M10 Sistemes de gestió empresarial</string>
+    <string name="m10UF1">UF1 - Sistemes ERP-CRM. Implantació</string>
+    <string name="m10UF2">UF2 - Sistemes ERP-CRM. Explotació i adequació</string>
+    <string name="M13">13 - Projecte de desenvolupament d\'aplicacions multiplataforma</string>
+    <string name="m13UF1">UF1 - Projecte</string>
+    <string name="adrian">Adrian Aranda Campanario</string>
+    <string name="dam2">2n de CFGS de DAM</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email">Email</string>
+    <string name="moodle">Moodle</string>
+    <string name="catala">Català</string>
+    <string name="castella">Castellà</string>
+    <string name="angles">Angles</string>
+</resources>

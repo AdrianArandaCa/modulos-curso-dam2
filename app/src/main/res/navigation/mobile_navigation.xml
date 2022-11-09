@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.act7adrian_arandacampanario.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/fM6uf1"
+        android:name="com.example.act7adrian_arandacampanario.fM6uf1"
+        android:label="fragment_f_m6uf1"
+        tools:layout="@layout/fragment_f_m6uf1" />
+    <fragment
+        android:id="@+id/fM6uf2"
+        android:name="com.example.act7adrian_arandacampanario.fM6uf2"
+        android:label="fragment_f_m6uf2"
+        tools:layout="@layout/fragment_f_m6uf2" />
+    <fragment
+        android:id="@+id/fM6uf3"
+        android:name="com.example.act7adrian_arandacampanario.fM6uf3"
+        android:label="fragment_f_m6uf3"
+        tools:layout="@layout/fragment_f_m6uf3" />
+    <fragment
+        android:id="@+id/fM6uf4"
+        android:name="com.example.act7adrian_arandacampanario.fM6uf4"
+        android:label="fragment_f_m6uf4"
+        tools:layout="@layout/fragment_f_m6uf4" />
+    <fragment
+        android:id="@+id/fM7uf1"
+        android:name="com.example.act7adrian_arandacampanario.fM7uf1"
+        android:label="fragment_f_m7uf1"
+        tools:layout="@layout/fragment_f_m7uf1" />
+    <fragment
+        android:id="@+id/fM7uf2"
+        android:name="com.example.act7adrian_arandacampanario.fM7uf2"
+        android:label="fragment_f_m7uf2"
+        tools:layout="@layout/fragment_f_m7uf2" />
+    <fragment
+        android:id="@+id/fM8uf1"
+        android:name="com.example.act7adrian_arandacampanario.fM8uf1"
+        android:label="fragment_f_m8uf1"
+        tools:layout="@layout/fragment_f_m8uf1" />
+    <fragment
+        android:id="@+id/fM8uf2"
+        android:name="com.example.act7adrian_arandacampanario.fM8uf2"
+        android:label="fragment_f_m8uf2"
+        tools:layout="@layout/fragment_f_m8uf2" />
+    <fragment
+        android:id="@+id/fM8uf3"
+        android:name="com.example.act7adrian_arandacampanario.fM8uf3"
+        android:label="fragment_f_m8uf3"
+        tools:layout="@layout/fragment_f_m8uf3" />
+    <fragment
+        android:id="@+id/fM9uf1"
+        android:name="com.example.act7adrian_arandacampanario.fM9uf1"
+        android:label="fragment_f_m9uf1"
+        tools:layout="@layout/fragment_f_m9uf1" />
+    <fragment
+        android:id="@+id/fM9uf2"
+        android:name="com.example.act7adrian_arandacampanario.fM9uf2"
+        android:label="fragment_f_m9uf2"
+        tools:layout="@layout/fragment_f_m9uf2" />
+    <fragment
+        android:id="@+id/fM9uf3"
+        android:name="com.example.act7adrian_arandacampanario.fM9uf3"
+        android:label="fragment_f_m9uf3"
+        tools:layout="@layout/fragment_f_m9uf3" />
+    <fragment
+        android:id="@+id/fM10uf1"
+        android:name="com.example.act7adrian_arandacampanario.fM10uf1"
+        android:label="fragment_f_m10uf1"
+        tools:layout="@layout/fragment_f_m10uf1" />
+    <fragment
+        android:id="@+id/fM10uf2"
+        android:name="com.example.act7adrian_arandacampanario.fM10uf2"
+        android:label="fragment_f_m10uf2"
+        tools:layout="@layout/fragment_f_m10uf2" />
+    <fragment
+        android:id="@+id/fM13uf1"
+        android:name="com.example.act7adrian_arandacampanario.fM13uf1"
+        android:label="fragment_f_m13uf1"
+        tools:layout="@layout/fragment_f_m13uf1" />
+
+</navigation>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/moodle"
+        android:orderInCategory="100"
+        android:title="@string/moodle"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/logovallbona"/>
+    <item
+        android:id="@+id/email"
+        android:orderInCategory="100"
+        android:title="@string/email"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_email_foreground"/>
+
+    <item android:title="idiomes" android:id="@+id/idiomes">
+        <menu>
+            <group>
+                <item android:title="@string/catala" android:id="@+id/catala"/>
+                <item android:title="@string/castella" android:id="@+id/castella"/>
+                <item android:title="@string/angles" android:id="@+id/angles" />
+            </group>
+        </menu>
+    </item>
+
+
+</menu>
